@@ -1,6 +1,6 @@
 {
   "name": "spread-it-out",
-  "version": "0.0.1",
+  "version": "1.0.0-alpha1",
   "description": "Take a color as an input and get an array of shades from darkest-to-lightest",
   "main": "lib/index.js",
   "repository": "https://github.com/theutz/spread-it-out.git",
