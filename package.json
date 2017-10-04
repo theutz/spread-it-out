@@ -1,0 +1,18 @@
+{
+  "name": "spread-it-out",
+  "version": "0.0.1",
+  "description": "Take a color as an input and get an array of shades from darkest-to-lightest",
+  "main": "lib/index.js",
+  "repository": "https://github.com/theutz/spread-it-out.git",
+  "author": "Michael Utz <michael@theutz.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "dependencies": {
+    "chroma-js": "^1.3.4"
+  }
+}
